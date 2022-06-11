@@ -1,0 +1,12 @@
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\bin\Debug\net6.0\File.Application.Shared.deps.json
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\bin\Debug\net6.0\File.Application.Shared.dll
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\bin\Debug\net6.0\File.Application.Shared.pdb
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.csproj.AssemblyReference.cache
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.AssemblyInfoInputs.cache
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.AssemblyInfo.cs
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.csproj.CoreCompileInputs.cache
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.dll
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\obj\Debug\net6.0\refint\File.Application.Shared.dll
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.pdb
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\obj\Debug\net6.0\ref\File.Application.Shared.dll

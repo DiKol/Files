@@ -1,0 +1,15 @@
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\bin\Debug\net6.0\File.Application.deps.json
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\bin\Debug\net6.0\File.Application.dll
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\bin\Debug\net6.0\File.Application.pdb
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\bin\Debug\net6.0\File.Application.Shared.dll
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\bin\Debug\net6.0\File.Application.Shared.pdb
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\obj\Debug\net6.0\File.Application.csproj.AssemblyReference.cache
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\obj\Debug\net6.0\File.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\obj\Debug\net6.0\File.Application.AssemblyInfoInputs.cache
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\obj\Debug\net6.0\File.Application.AssemblyInfo.cs
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\obj\Debug\net6.0\File.Application.csproj.CoreCompileInputs.cache
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\obj\Debug\net6.0\File.Application.csproj.CopyComplete
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\obj\Debug\net6.0\File.Application.dll
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\obj\Debug\net6.0\refint\File.Application.dll
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\obj\Debug\net6.0\File.Application.pdb
+C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application\obj\Debug\net6.0\ref\File.Application.dll

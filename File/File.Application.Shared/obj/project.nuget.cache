@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLyw29WIa99ZX86hX0Unji8WD1T8HUfPVsup86GduaHozAzC8J3Zwj3G2RBvSsbnaUhcWIr7f9IGjwXfZdo6lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmytr\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\dmytr\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\dmytr\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

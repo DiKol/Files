@@ -1,0 +1,23 @@
+<h2 mat-dialog-title>{{title}}</h2>
+<form #formControl="ngForm">
+  <mat-dialog-content>
+    <div fxLayout="column">
+      <mat-form-field>
+        <mat-label>File Name</mat-label>
+        <input matInput [(ngModel)]="file.name" name="name" required autocomplete="off"
+          style="border: 1px solid;height: 30px;padding: 3px;" >
+      </mat-form-field>
+      <mat-form-field>
+        <mat-label>File Content</mat-label>
+        <textarea matInput  [(ngModel)]="file.content"  class="form-control" name="content" rows="10"
+          style="border: 1px solid;"></textarea>
+      </mat-form-field>
+    </div>
+  </mat-dialog-content>
+
+<mat-dialog-actions align="begin">
+  <button class="btn btn-outline-primary" mat-button [disabled]="!formControl.valid"
+    cdkFocusInitial (click)="edit()">Save</button>
+  <button class="btn btn-outline-danger" mat-button mat-dialog-close (click)="close()">Cancel</button>
+</mat-dialog-actions>
+</form>

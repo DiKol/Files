@@ -1,0 +1,39 @@
+<article class="container">
+  <section class="users" >
+  <div class="row">
+    <div class="col-md-7">
+      <button type="button" class="btn btn-outline-primary" style="width:130px" (click)="create()">Create File</button>
+    </div>
+    <div class="col-md-7" style="margin-top: 5px;">
+      <form>
+      <app-upload (onUploadFinished)="uploadFinished($event)"></app-upload>
+      </form>
+    </div>
+    </div>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">File Name</th>
+          <th scope="col">Size</th>
+          <th scope="col">Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let file of files">
+          <td><img src='../assets/images/file.png' alt="profile picture" style="width:20px; height:20px;"></td>
+          <td>{{file.name}}</td>
+          <td>{{file.size}}</td>
+          <td>
+            <button type="button" class="btn btn-outline-danger btn-floating" (click)="update(file)">
+              Edit
+            </button>
+            <button type="button" class="btn btn-outline-danger btn-floating" style="margin-left: 5px;" (click)="delete(file)">
+              Remove
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</article>
