@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Web.Api\\File.Web.Api.csproj": {}
+    "E:\\Files\\File\\File.Web.Api\\File.Web.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj": {
+    "E:\\Files\\File\\File.Application.Shared\\File.Application.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj",
+        "projectUniqueName": "E:\\Files\\File\\File.Application.Shared\\File.Application.Shared.csproj",
         "projectName": "File.Application.Shared",
-        "projectPath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj",
+        "projectPath": "E:\\Files\\File\\File.Application.Shared\\File.Application.Shared.csproj",
         "packagesPath": "C:\\Users\\dmytr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\obj\\",
+        "outputPath": "E:\\Files\\File\\File.Application.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application\\File.Application.csproj": {
+    "E:\\Files\\File\\File.Application\\File.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application\\File.Application.csproj",
+        "projectUniqueName": "E:\\Files\\File\\File.Application\\File.Application.csproj",
         "projectName": "File.Application",
-        "projectPath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application\\File.Application.csproj",
+        "projectPath": "E:\\Files\\File\\File.Application\\File.Application.csproj",
         "packagesPath": "C:\\Users\\dmytr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application\\obj\\",
+        "outputPath": "E:\\Files\\File\\File.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -100,8 +100,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj": {
-                "projectPath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj"
+              "E:\\Files\\File\\File.Application.Shared\\File.Application.Shared.csproj": {
+                "projectPath": "E:\\Files\\File\\File.Application.Shared\\File.Application.Shared.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Web.Api\\File.Web.Api.csproj": {
+    "E:\\Files\\File\\File.Web.Api\\File.Web.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Web.Api\\File.Web.Api.csproj",
+        "projectUniqueName": "E:\\Files\\File\\File.Web.Api\\File.Web.Api.csproj",
         "projectName": "File.Web.Api",
-        "projectPath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Web.Api\\File.Web.Api.csproj",
+        "projectPath": "E:\\Files\\File\\File.Web.Api\\File.Web.Api.csproj",
         "packagesPath": "C:\\Users\\dmytr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Web.Api\\obj\\",
+        "outputPath": "E:\\Files\\File\\File.Web.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -178,11 +178,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj": {
-                "projectPath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj"
+              "E:\\Files\\File\\File.Application.Shared\\File.Application.Shared.csproj": {
+                "projectPath": "E:\\Files\\File\\File.Application.Shared\\File.Application.Shared.csproj"
               },
-              "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application\\File.Application.csproj": {
-                "projectPath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application\\File.Application.csproj"
+              "E:\\Files\\File\\File.Application\\File.Application.csproj": {
+                "projectPath": "E:\\Files\\File\\File.Application\\File.Application.csproj"
               }
             }
           }

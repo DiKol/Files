@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DIUbSVx4cLdQ+/lVOw3xM1BbP0sP3GwkZofScnroWukLFCuYjS33cS7/5ajxlznejWKcY30+98ohiEu4+8g/hg==",
+  "dgSpecHash": "c6h62VHd5leOKBjM3JBtd0hXpebdqVWGmgu1x39b1QYfML3Vs7OoSaXE36c+TMWaiRDar0NgTROFu1ukHu3Ymw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application\\File.Application.csproj",
+  "projectFilePath": "E:\\Files\\File\\File.Application\\File.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmytr\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\dmytr\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

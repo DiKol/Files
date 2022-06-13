@@ -3,3 +3,5 @@
 ################################################################################
 
 /File/.vs
+/File/File.Application/bin/Debug/net6.0
+/File/File.Web.Api/bin/Debug/net6.0

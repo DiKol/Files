@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj": {}
+    "E:\\Files\\File\\File.Application.Shared\\File.Application.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj": {
+    "E:\\Files\\File\\File.Application.Shared\\File.Application.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj",
+        "projectUniqueName": "E:\\Files\\File\\File.Application.Shared\\File.Application.Shared.csproj",
         "projectName": "File.Application.Shared",
-        "projectPath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj",
+        "projectPath": "E:\\Files\\File\\File.Application.Shared\\File.Application.Shared.csproj",
         "packagesPath": "C:\\Users\\dmytr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\obj\\",
+        "outputPath": "E:\\Files\\File\\File.Application.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

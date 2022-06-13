@@ -10,3 +10,15 @@ C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\
 C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\obj\Debug\net6.0\refint\File.Application.Shared.dll
 C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.pdb
 C:\Users\dmytr\Desktop\dotnet-core-file-upload-end-project\FinishedProject\File\File.Application.Shared\obj\Debug\net6.0\ref\File.Application.Shared.dll
+E:\Files\File\File.Application.Shared\bin\Debug\net6.0\File.Application.Shared.deps.json
+E:\Files\File\File.Application.Shared\bin\Debug\net6.0\File.Application.Shared.dll
+E:\Files\File\File.Application.Shared\bin\Debug\net6.0\File.Application.Shared.pdb
+E:\Files\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.csproj.AssemblyReference.cache
+E:\Files\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Files\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.AssemblyInfoInputs.cache
+E:\Files\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.AssemblyInfo.cs
+E:\Files\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.csproj.CoreCompileInputs.cache
+E:\Files\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.dll
+E:\Files\File\File.Application.Shared\obj\Debug\net6.0\refint\File.Application.Shared.dll
+E:\Files\File\File.Application.Shared\obj\Debug\net6.0\File.Application.Shared.pdb
+E:\Files\File\File.Application.Shared\obj\Debug\net6.0\ref\File.Application.Shared.dll

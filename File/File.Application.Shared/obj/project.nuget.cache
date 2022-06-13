@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YLyw29WIa99ZX86hX0Unji8WD1T8HUfPVsup86GduaHozAzC8J3Zwj3G2RBvSsbnaUhcWIr7f9IGjwXfZdo6lA==",
+  "dgSpecHash": "R14SLu7mNVMj1JibxKt+P4yya7HEQDAHoUpN3RQoMQK8FEt27uVCQwv+x2Nzh1QwZfGhmxm3Vnd+DlK1VcSmSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmytr\\Desktop\\dotnet-core-file-upload-end-project\\FinishedProject\\File\\File.Application.Shared\\File.Application.Shared.csproj",
+  "projectFilePath": "E:\\Files\\File\\File.Application.Shared\\File.Application.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmytr\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\dmytr\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
