@@ -54,5 +54,6 @@ export class AppComponent implements OnInit {
 
   uploadFinished = (event) => {
     this.response = event;
+    this.getFiles();
   }
 }
